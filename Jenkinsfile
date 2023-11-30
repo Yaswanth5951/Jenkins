@@ -1,5 +1,5 @@
 pipeline {
-    agent {label ""}
+    agent {label "agent"}
     environment {}
     tools{}
     parameters{}
