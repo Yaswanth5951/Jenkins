@@ -1,2 +1,2 @@
 # Jenkins
-This is aJenkins
+This is a Jenkins
