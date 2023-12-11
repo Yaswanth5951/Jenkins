@@ -26,9 +26,8 @@ pipeline {
         }
         stage('packages install'){
             steps{
-                script{
-                    'mvn clean package'
-                }
+                   sh 'mvn clean package'
+                
             }
         }
     }
